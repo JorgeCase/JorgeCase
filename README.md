@@ -1,8 +1,6 @@
 <h1 align="center">Oi, eu sou o Jorge Flávio Casé</h1>
 <h3 align="center">Programador sempre em busca de novos conhecimentos</h3>
 
-<p align="left"> <a href ="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=" " /></a> </p>
-
 - 📫 Você pode entrar em contato comigo pelo email: **jorgekzbra@gmail.com**
 
 - ⚡ Curiosidade: **Adoro velar e durante a pandemia construí um veleiro na garagem de casa **
