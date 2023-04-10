@@ -4,7 +4,7 @@
 - 📫 Você pode entrar em contato comigo pelo email: **jorgekzbra@gmail.com**
 - Ou ainda pelo WhatsApp: **(83) 99856-3780 **
 
-- ⚡ Curiosidade: **Adoro velar, e durante a pandemia construí um veleiro na garagem de casa **
+- ⚡ Curiosidade: **Adoro velejar, e durante a pandemia construí um veleiro na garagem de casa **
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
