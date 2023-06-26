@@ -7,7 +7,7 @@
   pelo WhatsApp <a href="https://web.whatsapp.com/send?phone=5583998563780"><b>83 99856-3780</b>
   </a>
   e ainda pelo
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-case/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="https://www.linkedin.com/in/jorge-case/" height="40" width="80" /></a>
+  <a href="https://www.linkedin.com/in/jorge-case/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="https://www.linkedin.com/in/jorge-case/" height="40" width="80" /></a>
 </p>
 
 <h3 align="center">Linguages de programação e tecnologias:</h3>
